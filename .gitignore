@@ -1,0 +1,9 @@
+*.iml
+node_modules
+yarn-error.log
+account.json
+.idea/
+output
+.terraform
+.gradle
+build
