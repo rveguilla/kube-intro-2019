@@ -7,7 +7,9 @@ REST app backed by MySQL with deployment scripts Minikube:
 
 ## Requirements:
 
+
 ### Notes:
+1. Running the examples requires registering for a [Docker Hub account](https://hub.docker.com). 
 1. At this time, the example code has only been tested on Unix operating systems. 
 1. All of the following tools are available on macOS via [homebrew](https://brew.sh).
  
